@@ -1,0 +1,26 @@
+[
+    {
+        "caption": "Tools",
+        "mnemonic": "t",
+        "id": "tools",
+        "children":
+        [
+            {
+                "caption": "WordPress Codex",
+                "mnemonic": "f",
+                "id": "wordpress_codex",
+                "children":
+                [
+                    {
+                        "command": "wordpress_codex_search_selection",
+                        "caption": "Search Selection"
+                    },
+                    {
+                        "command": "wordpress_codex_search_from_input",
+                        "caption": "Search From Input"
+                    }
+                ]
+            }
+        ]
+    }
+]

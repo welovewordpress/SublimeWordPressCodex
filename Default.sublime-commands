@@ -1,0 +1,14 @@
+[
+    {
+        "caption": "WordPress Codex: Search Selection",
+        "command": "wordpress_codex_search_selection"
+    },
+    {
+        "caption": "WordPress Codex: Open Function Reference",
+        "command": "wordpress_codex_open_selection"
+    },
+    {
+        "caption": "WordPress Codex: Search from Input",
+        "command": "wordpress_codex_search_from_input"
+    }
+]
