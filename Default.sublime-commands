@@ -10,5 +10,17 @@
     {
         "caption": "WordPress Codex: Search from Input",
         "command": "wordpress_codex_search_from_input"
+    },
+    {
+        "caption": "WP Queryposts: Search Selection",
+        "command": "query_posts_search_selection"
+    },
+    {
+        "caption": "WP QueryPosts: Open Function Reference",
+        "command": "query_posts_codex_open_selection"
+    },
+    {
+        "caption": "WP Queryposts: Search from Input",
+        "command": "query_posts_search_from_input"
     }
 ]
